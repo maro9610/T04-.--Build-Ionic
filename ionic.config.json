@@ -1,0 +1,8 @@
+{
+  "name": "comidasApp",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
